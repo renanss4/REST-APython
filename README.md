@@ -49,7 +49,7 @@ Let's set up the environment and run the project.
 To run the tests, simply follow the command below:
 
 ```bash
-python3 tests/tests.py
+python3 tests.py
 ```
 
 ## Future Improvements
